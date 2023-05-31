@@ -8,11 +8,11 @@
 
 Clone this repository.
 ````
-git clone https://github.com/smhabibjr/Pexels-Clone.git
+git clone https://github.com/smhabibjr/Todo.git
 ````
 
 ````
-cd Pexels-Clone
+cd Todo
 ````
 
 ### Run
@@ -21,10 +21,9 @@ To run this application you don't need to install ruby or ruby on rails on your 
 
 To build a docker image. Open the terminal from your project directory.
 ````
-docker build . -t my_pexels_clone
+npx expo install
 ````
-Build and Run the container.
+
 ````
-docker run -p 3000:3000 my_pexels_clone
+npx expo start
 ````
-After running the container. Go to the browser and curl http://localhost:3000
