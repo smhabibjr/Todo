@@ -2,7 +2,7 @@
 
 ### Screenshot
 
-![image](https://user-images.githubusercontent.com/77357735/218335818-e3a57d74-7b96-4a05-8dac-feb90a3f0a0d.png)
+<!-- ![image](https://user-images.githubusercontent.com/77357735/218335818-e3a57d74-7b96-4a05-8dac-feb90a3f0a0d.png) -->
 
 ### Configuration
 
