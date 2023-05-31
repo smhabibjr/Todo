@@ -12,6 +12,8 @@ export default function AddTodo({ submitHandler } ){
         setText(val)
     }
 
+
+
     return(
         <View>
             <TextInput 
