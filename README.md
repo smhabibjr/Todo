@@ -1,5 +1,21 @@
 # Todo
 
+### Looping using Flatlist 
+
+````
+  const [todos, setTodos] = useState([
+    { text: "bud coffe", key: 0},
+    { text: "bud coffe", key: 1 },
+    { text: "bud coffe", key: 3 }
+  ])
+
+   <FlatList 
+            data={todos}
+            renderItem={({item}) => (
+              <Text> {item.text} </Text>
+            )}
+            />
+  ````
 
 ### To create a header component , create a header.js file under the component folder.
 
